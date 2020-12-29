@@ -1,10 +1,6 @@
 /* Simple App to inspect Auction data */
-/* The following import statements are importing SparkContext, all subclasses and SparkConf*/
-package solutions
-import org.apache.spark.SparkContext
-import org.apache.spark.SparkContext._
-import org.apache.spark.SparkConf
-//Will use max, min - import java.Lang.Math
+/* The following import statements are importing SparkContext, all subclasses and SparkCon */
+/* New changes to be added in MAPR*/
 import java.lang.Math
 
 object AuctionsApp {
